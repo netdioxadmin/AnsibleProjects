@@ -1,0 +1,5 @@
+---
+  mysqlrootpass: "mysqlroot123"
+  mysqlwpdb: :wordpress"
+  mysqlwpuser: "wordpressusr"
+  mysqlwpusrpass: "wordpress123"
